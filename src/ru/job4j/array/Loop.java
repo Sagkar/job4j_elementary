@@ -7,7 +7,7 @@ public class Loop {
             num[i] = i * 2 + 3;
         }
         for (int n : num) {
-            System.out.println(num[n]);
+            System.out.println(n);
         }
     }
 }
